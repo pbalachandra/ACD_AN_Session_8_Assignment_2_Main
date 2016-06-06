@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Preferences Exercise</string>
+    <string name="str_button_settings">Settings</string>
+    <string name="str_button_show">Show Settings</string>
+
+    <string name="str_password_title">Password</string>
+    <string name="str_password_summary">Set Your Password</string>
+    <string name="str_lock_title">Screen Lock</string>
+    <string name="str_lock_sumamry">Lock The Screen With Password</string>
+    <string name="str_reminder_title">Reminder for Updation</string>
+    <string name="str_reminder_summary">Set Update Reminder Frequency</string>
+
+    <string-array name="updateFrequency">
+        <item name="1">Daily</item>
+        <item name="7">Weekly</item>
+        <item name="30">Monthly</item>
+        <item name ="365">Yearly</item>
+    </string-array>
+
+    <string-array name="updateFrequencyValues">
+        <item name="1">Daily</item>
+        <item name="7">Weekly</item>
+        <item name="30">Monthly</item>
+        <item name ="365">Yearly</item>
+    </string-array>
+</resources>
